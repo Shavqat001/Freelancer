@@ -1,0 +1,14 @@
+/* GLOBAL */
+
+@import url('./global/font.css');
+@import url('./global/normalize.css');
+@import url('./global/varibales.css');
+
+/* Block */
+
+@import url('./blocks/page-body.css');
+@import url('./blocks/main-header.css');
+@import url('./blocks/personality.css');
+@import url('./blocks/join.css');
+@import url('./blocks/questions.css');
+@import url('./blocks/main-footer.css');

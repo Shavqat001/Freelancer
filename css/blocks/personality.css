@@ -1,0 +1,71 @@
+
+.personality {
+    background-color: #E9E9E9;
+    display: flex;
+    align-items: center;
+    padding: 57px;
+    padding-left: 147px;
+    padding-right: 102px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+    position: relative;
+}
+
+.circles {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    position: absolute;
+    left: -315px;
+}
+
+.white-circle {
+    top: 18px;
+    background: var(--white-circle);
+}
+
+.blue-circle {
+    top: 271px;
+    background: var(--blue-circle);
+}
+
+.personality-left-side {
+    flex-grow: 1;
+}
+
+.personality-title {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 55px;
+    margin: 0;
+    text-transform: capitalize;
+}
+
+.personality-works {
+    font-size: 50px;
+    text-transform: capitalize;
+    font-weight: 600;
+    color: rgba(0, 87, 255, 0.91);
+    margin: 0;
+    margin-bottom: 20px;
+    line-height: 55px;
+}
+
+.personality-about {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    margin: 0;
+    margin-bottom: 44px;
+}
+
+.personality-link {
+    padding: 8px 60px;
+    background-color: #131CFB;
+    color: #fff;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-weight: 600;
+    line-height: 25px;
+    border-radius: 20px;
+}

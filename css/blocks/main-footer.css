@@ -1,0 +1,20 @@
+.main-footer {
+    background: #415FFF;
+    color: #fff;
+    box-shadow: 0px -4px 20px rgba(11, 109, 255, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    padding-right: 24px;
+    padding-left: 24px;
+}
+
+.copyright {
+    font-size: 25px;
+    line-height: 55px;
+    font-weight: 500;
+    font-family: Poppins;
+    text-align: center;
+    margin: 0;
+}
