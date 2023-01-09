@@ -6,7 +6,6 @@
     --personality-blue: #0057FF;
     --blue-button: #131CFB;
     --white-circle: rgba(255, 255, 255, 0.61);
-
     --blue-circle: rgba(137, 206, 255, 0.51);
 
     /* join section */
@@ -17,4 +16,7 @@
 
     /* questions */
     --background-color: rgba(60, 173, 255, 0.23);
+
+    /* login page */
+    --basic-blue:#0092FC;
 }

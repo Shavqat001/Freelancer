@@ -10,8 +10,9 @@
 
 .page-title {
     font-size: 70px;
-    font-family: Poppins;
-    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-style: normal;
     line-height: 105px;
     color: #adadad;
     text-align: center;
