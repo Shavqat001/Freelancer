@@ -3,6 +3,7 @@
 @import url('./global/font.css');
 @import url('./global/normalize.css');
 @import url('./global/varibales.css');
+@import url('./global/global.css');
 
 /* Block */
 
@@ -11,4 +12,5 @@
 @import url('./blocks/personality.css');
 @import url('./blocks/join.css');
 @import url('./blocks/questions.css');
+@import url('./blocks/customers.css');
 @import url('./blocks/main-footer.css');
