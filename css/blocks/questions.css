@@ -5,13 +5,15 @@
     align-items: center;
     flex-direction: column;
     background-color: var(--background-color);
-    margin-bottom: 62px;
 }
 
 .questions-title {
     display: flex;
     align-items: center;
     color: #0029FF;
+    font-size: 35px;
+    line-height: 52px;
+    font-weight: 600;
 }
 
 .questions-title img {

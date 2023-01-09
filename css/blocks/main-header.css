@@ -5,6 +5,9 @@
     background-color: #4160FF;
     padding: 10px 120px 10px 120px;
     margin-bottom: 6px;
+    box-shadow: 0 10px 15px #4161ffa1;
+    z-index: 1;
+    position: relative;
 }
 
 .navigation {
